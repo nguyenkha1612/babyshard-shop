@@ -1,0 +1,38 @@
+.custom-logo {
+  width: 58px;
+}
+
+.logo-name {
+  color: var(--white);
+  margin-left: 8px;
+  font-weight: 700;
+}
+
+.video-triangle {
+  color: white;
+}
+
+.flex-cen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.display-none {
+  display: none;
+}
+
+.bg-dark {
+  filter: brightness(0.85);
+}
+
+.bg-fixed {
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.pt-100per {
+  padding-top: 100%;
+}
